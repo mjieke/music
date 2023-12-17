@@ -1,5 +1,5 @@
 // 登录总开关
-var showLogin = true;
+var showLogin = false;
 if (mkPlayer.debug) {
     showLogin = false;
 }
