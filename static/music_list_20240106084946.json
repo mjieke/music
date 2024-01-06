@@ -1,0 +1,102 @@
+[
+    {
+        "id": "9527",
+        "name": "Github 歌单",
+        "cover": "images/album.png",
+        "creatorName": "EXP",
+        "creatorAvatar": "images/avatar.jpg",
+        "item": [
+            {
+                "id": "e42f9ce732035d069df8788d39e38b45",
+                "name": "冰城之夏-二手玫瑰",
+                "artist": "冰城之夏",
+                "album": "",
+                "url": "static/我喜欢/冰城之夏-二手玫瑰.mp3",
+                "pic": "",
+                "lyric": "static/我喜欢/冰城之夏-二手玫瑰.lrc",
+                "source": "local",
+                "url_id": "e42f9ce732035d069df8788d39e38b45",
+                "pic_id": "",
+                "lyric_id": "e42f9ce732035d069df8788d39e38b45"
+            },
+            {
+                "id": "594b0ebb3deb35d59a56bb32d0ad90b7",
+                "name": "理想三旬-陈鸿宇",
+                "artist": "陈鸿宇",
+                "album": "乐人+LIVE：陈鸿宇“三旬”全国巡演上海站",
+                "url": "static/我喜欢/理想三旬-陈鸿宇.mp3",
+                "pic": "",
+                "lyric": "static/我喜欢/理想三旬-陈鸿宇.lrc",
+                "source": "local",
+                "url_id": "594b0ebb3deb35d59a56bb32d0ad90b7",
+                "pic_id": "",
+                "lyric_id": "594b0ebb3deb35d59a56bb32d0ad90b7"
+            },
+            {
+                "id": "37214c387dbf4b6b8d520602040da5ac",
+                "name": "岁月神偷-金玟岐",
+                "artist": "岁月神偷",
+                "album": "",
+                "url": "static/我喜欢/岁月神偷-金玟岐.mp3",
+                "pic": "",
+                "lyric": "static/我喜欢/岁月神偷-金玟岐.lrc",
+                "source": "local",
+                "url_id": "37214c387dbf4b6b8d520602040da5ac",
+                "pic_id": "",
+                "lyric_id": "37214c387dbf4b6b8d520602040da5ac"
+            },
+            {
+                "id": "ff8c7e7b982980d58ca853f39a89ba72",
+                "name": "奢香夫人-凤凰传奇",
+                "artist": "奢香夫人",
+                "album": "",
+                "url": "static/我喜欢/奢香夫人-凤凰传奇.mp3",
+                "pic": "",
+                "lyric": "static/我喜欢/奢香夫人-凤凰传奇.lrc",
+                "source": "local",
+                "url_id": "ff8c7e7b982980d58ca853f39a89ba72",
+                "pic_id": "",
+                "lyric_id": "ff8c7e7b982980d58ca853f39a89ba72"
+            },
+            {
+                "id": "a4cbb8baee6f3db6c0b188d84708d54f",
+                "name": "若把你-Kirsty刘瑾睿",
+                "artist": "若把你",
+                "album": "",
+                "url": "static/我喜欢/若把你-Kirsty刘瑾睿.mp3",
+                "pic": "",
+                "lyric": "static/我喜欢/若把你-Kirsty刘瑾睿.lrc",
+                "source": "local",
+                "url_id": "a4cbb8baee6f3db6c0b188d84708d54f",
+                "pic_id": "",
+                "lyric_id": "a4cbb8baee6f3db6c0b188d84708d54f"
+            },
+            {
+                "id": "ed42e9da9f221de39ac0faea6bccba41",
+                "name": "于果-侧脸",
+                "artist": "于果",
+                "album": "",
+                "url": "static/我喜欢/于果-侧脸.mp3",
+                "pic": "static/我喜欢/于果-侧脸.jpg",
+                "lyric": "static/我喜欢/于果-侧脸.lrc",
+                "source": "local",
+                "url_id": "ed42e9da9f221de39ac0faea6bccba41",
+                "pic_id": "ed42e9da9f221de39ac0faea6bccba41",
+                "lyric_id": "ed42e9da9f221de39ac0faea6bccba41"
+            },
+            {
+                "id": "b2b54931cbf4fc74a13cd7ebd4bb75e6",
+                "name": "程响 - 可能",
+                "artist": "程响",
+                "album": "",
+                "url": "static/流行/程响 - 可能.mp3",
+                "pic": "static/流行/程响 - 可能.jpg",
+                "lyric": "static/流行/程响 - 可能.lrc",
+                "source": "local",
+                "url_id": "b2b54931cbf4fc74a13cd7ebd4bb75e6",
+                "pic_id": "b2b54931cbf4fc74a13cd7ebd4bb75e6",
+                "lyric_id": "b2b54931cbf4fc74a13cd7ebd4bb75e6"
+            }
+        ]
+    }
+]
